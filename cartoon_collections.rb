@@ -20,6 +20,7 @@ if array.all? do |phrase|
   true
 else
   false
+end
   end
 end
 
