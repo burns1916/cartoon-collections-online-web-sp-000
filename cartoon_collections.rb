@@ -14,7 +14,7 @@ end
 
 def long_planeteer_calls(array)# code an argument here
   # Your code here
-if array.all? do |phrase|
+array.all? do |phrase|
     phrase.size <= 5
   end
 end
